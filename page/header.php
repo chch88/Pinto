@@ -28,8 +28,8 @@
     <div class="nav-wrapper">
         <a href="/Pinto/index.php" class="brand-logo center">PINTO HAPPY HOUR</a>
         <ul class="right hide-on-med-and-down">
-            <li><a class="waves-effect waves-light btn">Inscription</a></li>
-            <li><a class="waves-effect waves-light btn"  href="/Pinto/page/page_connexion.php">Connexion</a></li>
+            <li><a class="waves-effect waves-light btn" href="/Pinto/page/inscription.php">Inscription</a></li>
+            <li><a class="waves-effect waves-light btn"  href="/Pinto/page/connexion.php">Connexion</a></li>
         </ul>
     </div>
 </nav>
