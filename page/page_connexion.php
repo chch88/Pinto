@@ -1,6 +1,6 @@
-<?php include("config.php"); ?>
+<?php include("/Pinto/config.php"); ?>
 
-<?php include("page/header.php"); ?>
+<?php include("header.php"); ?>
 
     <div class="row">
         <form class="col s12">
@@ -20,4 +20,4 @@
     </div>
 
 
-<?php include("page/footer.php"); ?>
+<?php include("footer.php"); ?>
